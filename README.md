@@ -3,8 +3,8 @@
 
 | Campo | Informação |
 |---|---|
-| **Aluno(a)** | Seu Nome Completo |
-| **Matrícula** | 2026XXXXXX |
+| **Aluno(a)** | Ernande Silva dos Reis |
+| **Matrícula** | 20261002312 |
 | **Disciplina** | Programação e Análise de Dados com Python — PPGE/UFPB |
 | **Professor** | Prof. Dr. Hilton Ramalho |
 
